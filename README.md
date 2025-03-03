@@ -37,4 +37,4 @@ public class TelcoPromo {
 ```
 
 ### UML Diagram
-![VPUMLD](.png)
+![VPUMLD](https://github.com/DarylTManampan/SW3LAB-VP/blob/main/Telco-VisitorPattern/vpuml.png)
